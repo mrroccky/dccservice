@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://dccservice.in
+
+# Sitemaps
+Sitemap: https://dccservice.in/sitemap.xml
