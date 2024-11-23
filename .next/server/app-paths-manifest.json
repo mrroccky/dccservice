@@ -1,0 +1,12 @@
+{
+  "/icon.ico/route": "app/icon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(Pages)/about-us/page": "app/(Pages)/about-us/page.js",
+  "/(Pages)/commercial-services/page": "app/(Pages)/commercial-services/page.js",
+  "/(Pages)/contact-us/page": "app/(Pages)/contact-us/page.js",
+  "/(Pages)/domestic-services/page": "app/(Pages)/domestic-services/page.js",
+  "/(Pages)/gallary/page": "app/(Pages)/gallary/page.js",
+  "/(Pages)/privacy-policy/page": "app/(Pages)/privacy-policy/page.js",
+  "/(Pages)/terms-and-conditions/page": "app/(Pages)/terms-and-conditions/page.js",
+  "/page": "app/page.js"
+}
