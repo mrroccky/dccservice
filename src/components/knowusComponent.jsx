@@ -9,28 +9,28 @@ const KnowUs = () => {
                 <div className="w-full md:w-1/2 grid grid-cols-2 gap-2 p-6 md:p-10">
                     <div className="w-full h-[10rem] flex items-center justify-center rounded-lg shadow-lg overflow-hidden ">
                         <img
-                            src="dccimg/japababy.png"
+                            src="/dccimg/japababy.png"
                             alt="Japa Maid Services By DCC nagpur 1"
                             className="w-full h-[10rem] object-contain"
                         />
                     </div>
                     <div className="w-full h-[10rem] flex items-center justify-center rounded-lg shadow-lg overflow-hidden">
                         <img
-                            src="dccimg/driver.png"
+                            src="/dccimg/driver.png"
                             alt="driver services by dcc servics bagpur"
                             className="w-fullh-[10rem] object-contain"
                         />
                     </div>
                     <div className="w-full h-[10rem] flex items-center justify-center rounded-lg shadow-lg overflow-hidden">
                         <img
-                            src="dccimg/security.png"
+                            src="/dccimg/security.png"
                             alt="dcc security gaurd services "
                             className="w-full h-full object-contain"
                         />
                     </div>
                     <div className="w-full h-[10rem] flex items-center justify-center rounded-lg shadow-lg overflow-hidden">
                         <img
-                            src="dccimg/cleaning.png"
+                            src="/dccimg/cleaning.png"
                             alt="dcc clining services"
                             className="w-full h-full object-contain"
                         />

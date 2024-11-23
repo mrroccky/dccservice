@@ -3,10 +3,10 @@ const nextConfig = {
     output: 'export',
     // experimental:{
     //     images: {
-    //         unoptimized: true,
+    //         
     //       },
     // },
-    
+    unoptimized: true,
     trailingSlash: true,
     
     

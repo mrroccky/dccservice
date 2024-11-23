@@ -16,7 +16,7 @@ function NavigationBar() {
                         <a href="/" className="block py-2 px-4">
 
                         <div className="flex items-center">
-                            <img src="dccimg/logo.png" width={50} height={50} alt="DCC Services Nagpur Logo" />
+                            <img src="/dccimg/logo.png" width={50} height={50} alt="DCC Services Nagpur Logo" />
                         </div>
                         </a>
                         {/* Hamburger Button (Mobile) */}

@@ -14,7 +14,7 @@ export default function Management() {
         {/* Image */}
         <div className="relative w-80 h-80 mx-auto rounded-full overflow-hidden border-4 z-50">
           <img
-            src="dccimg/dccceo.png" // Replace with the actual image path
+            src="/dccimg/dccceo.png" // Replace with the actual image path
             alt="Sourabh Chankapure"
             className="w-full h-full object-cover"
           />

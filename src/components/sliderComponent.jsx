@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 const SwiperSlider = () => {
   const images = [
-    'sliderimages/slider1.png','sliderimages/slider2.png','sliderimages/slider3.png','sliderimages/slider4.png',
+    '/sliderimages/slider1.png','/sliderimages/slider2.png','/sliderimages/slider3.png','/sliderimages/slider4.png',
     
   ];
 
